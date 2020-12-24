@@ -15,3 +15,6 @@ Command in telegram: ```/getinfo```
 2) Update and photo
 3) Add camera
 4) Count free spaces
+____
+## **Telegram bot example**
+<center><img src="images/bot_example.jpg"></center>
